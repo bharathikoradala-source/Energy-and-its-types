@@ -1,4 +1,4 @@
-# Energy-and-its-typesnpx plugins
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
